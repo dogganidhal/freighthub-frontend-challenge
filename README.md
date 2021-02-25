@@ -50,9 +50,7 @@ The full criteria for evaluating the coding challenge can be found [here](./Crit
 - Make sure that there are scripts to start both the server and the client.
 - Ensure everything you want to commit is committed before you bundle.
 - Create a git bundle: `git bundle create your_name.bundle --all`
-- Email the bundle file to your point of contact.
-
-**In order to be fair to all candidates, please refrain from sharing your solution on public repository hosting services such as GitHub and Bitbucket.**
+- Email the bundle file to dogga.nidhal@gmail.com
 
 # How to run API server
 
